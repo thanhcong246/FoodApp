@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+<!--    main_animation-->
+    <string name="culinary_word">Thế Giới Ẩm Thực</string>
+</resources>
