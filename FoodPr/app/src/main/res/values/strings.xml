@@ -1,5 +1,24 @@
 <resources>
     <string name="app_name">FoodApp</string>
-<!--    main_animation-->
+    <!--    main_animation-->
     <string name="culinary_word">Thế Giới Ẩm Thực</string>
+    <!--    main-->
+    <string name="login_google">Google</string>
+    <string name="login_facebook">Facebook</string>
+    <string name="login_main">Đăng nhập</string>
+    <!--    login-->
+    <string name="login_btn">Đăng nhập</string>
+    <string name="login_email">Email</string>
+    <string name="login_password">Mật khẩu</string>
+    <string name="login_getback">Quên mật khẩu?</string>
+    <!--    register-->
+    <string name="register_user">Tên của bạn</string>
+    <string name="register_email">Email</string>
+    <string name="register_password">Mật khẩu</string>
+    <string name="register_confirm_password">Nhập lại mật khẩu</string>
+    <string name="register">Đăng kí</string>
+    <!--    get_back_account-->
+    <string name="getback">Lấy lại mật khẩu</string>
+    <string name="getback_email">Nhập email bạn muốn lấy lại tài khoản</string>
+    <string name="getback_send">Gửi yêu cầu</string>
 </resources>
